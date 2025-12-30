@@ -3,3 +3,5 @@ This website was created due to the fact that I accidentally let my payment for 
 
 ## Why is it here insted of [@Starlight-Community-Network](https://github.com/Starlight-Community-Network)?
 Mostly cause I removed the old domain from the org proflie ¯\\_(ツ)_/¯
+
+**_This is no longer need the domain is back up as of 4-ish PM_**
